@@ -1,0 +1,353 @@
+
+html {
+    background-color: #ECEEF1;
+}
+
+.already {
+    margin-left: 1000px;
+    font-size: 13px;
+    font: 0.73em "Fira Sans", sans-serif;
+}
+
+
+.col {
+    padding: 5px 0px 20px 0px;
+    margin: -18px 15px 3px 995px;
+    text-decoration: none;
+    font: 0.75em "Fira Sans", sans-serif
+}
+
+a.re:link {
+    text-decoration: none;
+    color: blue;
+}
+
+a.re:visited {
+    color: blue;
+}
+
+.sign-in {
+    background-color: cornflowerblue;
+    padding: 8px 20px;
+    margin-top: -55px;
+    margin-left: 1180px;
+    margin-right: 20px;
+    margin-bottom: -30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    color:white;
+    cursor: pointer;
+    font: 0.75em "Fira Sans", sans-serif
+}
+
+#lock {
+    height: 1em;
+    width: 0.8em;
+    margin-top: 2px;
+    margin-right: 7px;
+    vertical-align: text-top;
+    display: inline-block;
+    background-position: 8px 8px;
+    background-repeat: no-repeat;
+}
+
+.intuit {
+    display: block;
+    border:none;
+    margin-left:580px;
+    margin-top:37px;
+}
+
+.mint {
+    margin-left:520px;
+}
+
+.header {
+    font: 1.5em "Fira Sans", sans-serif;
+    font-size: 25px;
+    margin-top:-15px;
+    margin-bottom: 50px;
+    margin-left: 27px;
+}
+
+h6 {
+    margin: auto;
+}
+
+label {
+    font: 0.8em "Fira Sans", sans-serif;
+    font-weight: 300;
+}
+
+.note {
+    margin: -35px -15px 0px -5px;
+    padding-left: 15px;
+    font-size: 13px;
+    font: 0.9em "Fira Sans", sans-serif;
+}
+
+.box {
+    background-color: white;
+    width: 300px;
+    border: 1px solid lightgrey; 
+    padding: 50px;
+    padding-left: 35px;
+    padding-right: 45px;
+    margin: auto;
+    height: 540px;
+    margin-top: 15px;
+}
+
+input {
+    width: 105%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    background: white;
+    border-radius: 3px;
+}
+
+.link {
+    margin: -35px 0px 70px 130px;
+    font-size: 12px;
+    text-decoration: none;
+    font: 0.8em "Fira Sans", sans-serif;
+    color:blue
+}
+
+.inp {
+    margin-top: 50px;
+}
+
+label {
+    padding-bottom: 6px;
+}
+
+.rules {
+    margin-top: 35px;
+    margin-left: 30px;
+    font-family: Calibri;
+    font-size: 12px;
+    font: 0.8em "Fira Sans", sans-serif;
+}
+
+.position {
+    margin: 0px 0px -5px 25px;
+    
+}
+
+.invis {
+    font-size: 10px;
+    margin: 4px -45px 20px -60px;
+    padding: 20px 15px 15px 40px;
+    border: 5px; 
+    background-color: #ECEEF1;
+    font: 0.6em "Fira Sans", sans-serif;
+    color:grey
+}
+
+.settings {
+    margin-left:1000px;
+    position: fixed;
+    bottom: -1px;
+    left: 130px;
+    padding: 14px 15px;
+    background-color: grey;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px black;
+    cursor: pointer;
+    font: 0.9em "Fira Sans", sans-serif
+}
+
+.legal{
+    margin-right:7px;
+}
+
+a.unv:link{
+    text-decoration: none;
+    font: 1em "Fira Sans", sans-serif
+}
+
+a.unv:visited {
+    color: black;
+}
+
+a.unv:hover{
+    text-decoration:underline ;
+}
+
+a.kl:link {
+    font: 1em "Fira Sans", sans-serif;
+    text-decoration: none;
+}
+
+a.kl:visited {
+    text-decoration: none;
+    font: 1em "Fira Sans", sans-serif;
+    color:black;
+}
+
+a.kl:hover {
+    text-decoration: underline;
+}
+
+a.op:link {
+    text-decoration: none;
+    font: 1em "Fira Sans", sans-serif;
+    color:black;
+}
+
+a.op:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+a.op:hover {
+    text-decoration: underline;
+}
+
+
+.privacy {
+    margin-right:7px;
+}
+
+.align {
+    font-size: 12px;
+    font-family: Calibri;
+    margin: -12px 10px 45px 14px;
+    font: 0.8em "Fira Sans", sans-serif
+
+}
+
+.vr {
+    font: 0.8em "Fira Sans", sans-serif;
+    margin-top:-60px;
+    margin-left: 51px;
+    margin-bottom:10px;
+}
+
+.statement {
+    margin: 5px 10px 12px 125px;
+    font-family: Calibri;
+    font-size: 12px;
+    font: 0.78em "Fira Sans", sans-serif
+}
+
+a.priv:link {
+    color:blue
+}
+
+a.priv:visited {
+    color:blue;
+}
+
+a.of:visited {
+    color:blue;
+}
+
+.style {
+    background-color: dodgerblue; 
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 103%;
+    opacity: 0.9;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 1px 1px black;
+    font-size: 16px;
+    font: 1em "Fira Sans", sans-serif
+}
+
+.lock {
+    height: 1em;
+    width: 0.8em;
+    margin-top: 2px;
+    margin-right: 7px;
+    vertical-align: text-top;
+    display: inline-block;
+    background-position: 8px 8px;
+    background-repeat: no-repeat;
+}
+
+
+
+a.terms:link {
+    text-decoration: none;
+    font: 0.9em "Fira Sans", sans-serif;
+}
+
+a.terms:visited {
+    color: blue;
+    text-decoration: none;
+    font: 0.9em "Fira Sans", sans-serif;
+}
+
+.two {
+    font: 0.78em "Fira Sans", sans-serif;
+    margin-left:261px;
+    margin-top: -25px;
+}
+
+
+
+a.two:link {
+    text-decoration: none;
+    font: 0.8em "Fira Sans", sans-serif;
+}
+
+a.two:visited {
+    color: blue;
+    text-decoration: none;
+    font: 0.8em "Fira Sans", sans-serif;
+}
+
+a.cy:link {
+    text-decoration: none;
+}
+
+a.cy:visited {
+    color:blue;
+}
+
+a.priv:link {
+    text-decoration: none;
+}
+
+a.of:link {
+    text-decoration: none;
+}
+
+button:hover {
+    opacity: 1.5;
+} 
+
+
+
+footer {
+    margin-top: -10px;
+    margin-left: 160px;
+    padding-left: 145px;
+    font: 0.72em "Fira Sans", sans-serif;
+}
+
+ul {
+    margin-left: 551px;
+    margin-top: 25px;
+}
+
+li {
+    display: inline;
+    font-size: 12px;
+}
+
+.center {
+    margin-left: 61px;
+    padding-left: 15px;
+    margin-top: 5px;
+    font-size:12px;
+}
