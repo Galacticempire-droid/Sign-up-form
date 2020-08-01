@@ -167,6 +167,7 @@ label {
 }
 
 a.unv:link{
+    color:black;
     text-decoration: none;
     font: 1em "Fira Sans", sans-serif
 }
@@ -180,6 +181,7 @@ a.unv:hover{
 }
 
 a.kl:link {
+    color:black;
     font: 1em "Fira Sans", sans-serif;
     text-decoration: none;
 }
